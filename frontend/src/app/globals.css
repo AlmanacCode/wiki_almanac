@@ -290,27 +290,107 @@ body {
   font-weight: 600;
 }
 
+/* ── Infobox ── */
 .wiki-content .infobox {
   float: right;
-  width: 280px;
-  margin: 0 0 1rem 1.5rem;
+  width: 300px;
+  margin: 0 0 1.5rem 2rem;
   border: 1px solid var(--color-border);
-  border-radius: 12px;
+  border-radius: 10px;
   background: var(--color-surface-raised);
-  padding: 1rem;
   font-size: 0.875rem;
+  overflow: hidden;
+}
+
+.wiki-content .infobox .infobox-title {
+  font-family: var(--font-heading), serif;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+  text-align: center;
+  color: var(--color-foreground);
+  border-bottom: 1px solid var(--color-border-subtle);
+}
+
+.wiki-content .infobox table,
+.wiki-content .infobox .infobox-data {
+  width: 100%;
+  border: none;
+  margin: 0;
 }
 
 .wiki-content .infobox th {
   background: transparent;
   color: var(--color-foreground-faint);
   font-weight: 500;
+  font-size: 0.8rem;
   border: none;
-  padding: 0.25rem 0.5rem;
+  border-bottom: 1px solid var(--color-border-subtle);
+  padding: 0.55rem 1rem;
   width: 35%;
+  vertical-align: top;
 }
 
 .wiki-content .infobox td {
   border: none;
-  padding: 0.25rem 0.5rem;
+  border-bottom: 1px solid var(--color-border-subtle);
+  padding: 0.55rem 1rem;
+  color: var(--color-foreground);
+  line-height: 1.5;
+}
+
+.wiki-content .infobox tr:last-child th,
+.wiki-content .infobox tr:last-child td {
+  border-bottom: none;
+}
+
+.wiki-content .infobox p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .wiki-content .infobox {
+    float: none;
+    width: 100%;
+    margin: 0 0 1.5rem 0;
+  }
+}
+
+/* ── Table of contents ── */
+.wiki-content #toc,
+.wiki-content .toc {
+  background: var(--color-surface-raised);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  display: inline-block;
+}
+
+.wiki-content .toctitle h2 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+  border: none;
+  padding: 0;
+}
+
+.wiki-content .toc ul {
+  list-style: none;
+  padding-left: 1rem;
+  margin: 0;
+}
+
+.wiki-content .toc li {
+  margin-bottom: 0.2rem;
+}
+
+.wiki-content .toc a {
+  text-decoration: none;
+  color: var(--color-foreground-muted);
+  font-size: 0.875rem;
+}
+
+.wiki-content .toc a:hover {
+  color: var(--color-accent);
 }
