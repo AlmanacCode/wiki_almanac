@@ -1,0 +1,41 @@
+'''Rohan''' (Sindarin: "Horse-land"), known to its own people as the '''Riddermark''' or the '''Mark''', is a kingdom of Men in [[Middle-earth]] in ''[[The Lord of the Rings]]'' by [[J. R. R. Tolkien]]. Its people, the Rohirrim ("Horse-lords"), are renowned horsemen and fierce warriors.
+
+== Geography ==
+Rohan is a wide, grassy land between the [[Misty Mountains]] and the [[White Mountains]], bordered by the river Isen to the west and the [[Anduin]] to the east. Key locations include:
+
+* '''Edoras''' — the capital city, built on a hill, crowned by '''Meduseld''', the golden-roofed hall of the kings.
+* '''Helm's Deep''' — a great fortress and refuge in the [[White Mountains]], site of one of the war's most famous battles.
+* '''The Westfold''' — the western region, closest to [[Isengard]].
+* '''The Eastfold''' — the eastern region, near [[Gondor]].
+* '''Fangorn Forest''' — the ancient forest on Rohan's northern border, home to the [[Ents]] and [[Treebeard]].
+* '''The Gap of Rohan''' — the pass between the [[Misty Mountains]] and the White Mountains, near [[Isengard]].
+
+== Culture ==
+The Rohirrim are modelled on Anglo-Saxon culture (their language is represented as Old English in the text). They are a proud, martial people whose society centres on the horse. They live in timber halls, value oaths and loyalty, and sing songs of heroic deeds. Their cavalry charges are among the most feared military forces in [[Middle-earth]].
+
+== History ==
+The Rohirrim are descended from the Éothéod, a Northman people. In T.A. 2510, Eorl the Young rode south to aid [[Gondor]] against invaders, and in gratitude Steward Cirion granted the Éothéod the province of Calenardhon, which became Rohan. The Rohirrim swore the '''Oath of Eorl''' — a mutual defence pact with [[Gondor]] that endured for five hundred years and proved decisive in the [[War of the Ring]].
+
+== Théoden ==
+'''[[Théoden]]''' was King of Rohan during the [[War of the Ring]]. He fell under the influence of [[Saruman]] through his counsellor [[Wormtongue|Gríma Wormtongue]], who poisoned his mind and weakened his will. [[Gandalf]] freed Théoden from this spell, restoring him to vigour and purpose. Théoden led his people to refuge at Helm's Deep and then rode to the aid of [[Gondor]] at the [[Pelennor Fields]], where he fell in battle against the [[Nazgûl|Witch-king]]'s fell beast.
+
+== Éowyn ==
+'''[[Éowyn]]''' was the niece of [[Théoden]] and sister of [[Éomer]]. She longed for glory and chafed at being left behind while the men rode to war. Disguising herself as the warrior "Dernhelm," she rode to the [[Pelennor Fields]] and slew the [[Nazgûl|Witch-king]] with the aid of [[Meriadoc Brandybuck|Merry]], fulfilling the prophecy that "no man" could kill him. After the war, she was healed by [[Aragorn]] in the Houses of Healing and married [[Faramir]], Prince of Ithilien.
+
+== Éomer ==
+'''Éomer''' was [[Théoden]]'s nephew and marshal of the Mark. He was banished by Wormtongue but returned to fight at [[Rohan|Helm's Deep]]. After Théoden's death, Éomer became King of Rohan and renewed the Oath of Eorl with King [[Aragorn|Elessar]].
+
+== The Battle of Helm's Deep ==
+[[Saruman]] sent an army of ten thousand Uruk-hai and Dunlendings against the fortress of Helm's Deep. The defenders — Rohirrim and the remnant of the [[Fellowship of the Ring|Fellowship]] — held through the night until [[Gandalf]] arrived at dawn with Éomer's riders, routing the enemy. The fleeing Orcs were destroyed by the [[Ents|Huorns]] of [[Fangorn]] Forest.
+
+== The Pelennor Fields ==
+Answering [[Gondor]]'s call, [[Théoden]] led six thousand Rohirrim on a desperate ride to [[Minas Tirith]]. Their charge at dawn broke the siege and turned the tide of the battle, though Théoden was killed and many riders fell. It was the last great ride of the Rohirrim and one of the defining moments of the [[War of the Ring]].
+
+== See Also ==
+* [[Théoden]]
+* [[Éowyn]]
+* [[Gondor]]
+* [[Minas Tirith]]
+* [[Saruman]]
+
+[[Category:Places]]

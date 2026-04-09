@@ -1,0 +1,43 @@
+{{Infobox place
+| name = Minas Tirith
+| type = Fortified city
+| location = Eastern [[Gondor]], at the foot of [[Mount Mindolluin]]
+| ruler = Stewards of Gondor, later King [[Aragorn|Elessar]]
+| inhabitants = Men of [[Gondor]]
+| founded = S.A. 3320 (as Minas Anor)
+| events = [[Battle of the Pelennor Fields]], Coronation of [[Aragorn]]
+| realm = [[Gondor]]
+}}
+'''Minas Tirith''' (Sindarin: "Tower of Guard"), originally called '''Minas Anor''' ("Tower of the Sun"), is the capital city of [[Gondor]] and the greatest fortress of Men in [[Middle-earth]] in ''[[The Lord of the Rings]]'' by [[J. R. R. Tolkien]].
+
+== Description ==
+Minas Tirith is built on seven levels carved into the hill of [[Mount Mindolluin]], each level rising above the last and enclosed by a white wall. A great spur of rock, the "keel," thrusts forward from the hill through all seven levels, so that each gate faces a different direction from the one below. The first wall, the Great Gate, is made of steel and iron.
+
+At the summit stands the '''Citadel''' and the '''White Tower of Ecthelion''', visible for miles, gleaming in the sun. Before the Tower stands the withered '''White Tree of Gondor''', a descendant of Telperion, one of the Two Trees of Valinor. The tree's flowering is a sign of the rightful king's return.
+
+== History ==
+Minas Anor was founded at the end of the [[Middle-earth|Second Age]] by Anárion, son of Elendil, as the companion city to Minas Ithil (later [[Minas Morgul]]). When Minas Ithil was captured by the [[Nazgûl]] in T.A. 2002, Minas Anor was renamed Minas Tirith — the Tower of Guard — as the chief bulwark against [[Mordor]].
+
+For centuries, the city was ruled by the Stewards of [[Gondor]] in the absence of a king. By the time of the [[War of the Ring]], Denethor II served as Steward, with his sons [[Boromir]] and [[Faramir]] as military commanders.
+
+== The White Tree ==
+The White Tree of Gondor stands in the Court of the Fountain before the Citadel. By the time of the [[War of the Ring]], the tree was dead and withered, symbolising the decline of [[Gondor]]. After the war, [[Aragorn]] found a sapling of the White Tree on the slopes of [[Mount Mindolluin]], and the new tree was planted in the court as a sign of renewal.
+
+== The Battle of the Pelennor Fields ==
+During the [[War of the Ring]], [[Sauron]]'s armies besieged Minas Tirith. [[Gandalf]] organised the city's defence while Denethor fell into despair and madness, eventually attempting to burn himself and [[Faramir]] alive on a pyre. [[Gandalf]] and [[Peregrin Took|Pippin]] rescued Faramir, but Denethor perished.
+
+The [[Nazgûl|Witch-king]] broke the Great Gate, but [[Gandalf]] confronted him. The siege was broken by the arrival of the [[Rohan|Rohirrim]] under King [[Théoden]], and the ensuing Battle of the [[Pelennor Fields]] was the greatest battle of the [[War of the Ring]]. [[Théoden]] was slain, and [[Éowyn]] and [[Meriadoc Brandybuck|Merry]] together destroyed the Witch-king.
+
+The tide was turned when [[Aragorn]] arrived with reinforcements from southern [[Gondor]] aboard the Corsair ships, having summoned the Dead Men of Dunharrow.
+
+== Aragorn's Coronation ==
+After the destruction of the [[One Ring]] and the defeat of [[Sauron]], [[Aragorn]] was crowned King Elessar before the gates of Minas Tirith. He married [[Arwen]], daughter of [[Elrond]], and restored the line of kings. Minas Tirith became the capital of the Reunited Kingdom of Arnor and [[Gondor]].
+
+== See Also ==
+* [[Gondor]]
+* [[Aragorn]]
+* [[Pelennor Fields]]
+* [[Théoden]]
+* [[Éowyn]]
+
+[[Category:Places]]

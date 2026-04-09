@@ -1,3 +1,43 @@
-'''Rivendell''' is an elven refuge in [[Middle-earth]].
+{{Infobox place
+| name = Rivendell (Imladris)
+| type = Elven refuge
+| location = Eastern [[Eriador]], foothills of the [[Misty Mountains]]
+| ruler = [[Elrond]]
+| inhabitants = Elves
+| founded = S.A. 1697
+| events = [[Council of Elrond]], Reforging of [[Narsil]]
+}}
+'''Rivendell''' (Sindarin: ''Imladris'', "deep valley of the cleft") is an Elven refuge in [[Middle-earth]], founded and ruled by [[Elrond|Lord Elrond Half-elven]]. It serves as a haven of learning, counsel, and healing, and plays a pivotal role in ''[[The Lord of the Rings]]'' by [[J. R. R. Tolkien]].
+
+== History ==
+Rivendell was founded by [[Elrond]] in S.A. 1697, during the wars against [[Sauron]] in the [[Second Age]], after the destruction of [[Eregion]]. It served as a refuge for the Elves and a base of resistance. Throughout the [[Third Age]], Rivendell became the chief dwelling of the [[Elves]] remaining in Eriador and a sanctuary for all who opposed [[Sauron]].
+
+The [[Dúnedain|Rangers of the North]], the remnant of the kingdom of Arnor, maintained close ties with Rivendell. [[Aragorn]] was raised there by Elrond after the death of his father Arathorn, and it was in Rivendell that he first met and fell in love with [[Arwen]], Elrond's daughter.
+
+== Description ==
+Rivendell lies in a deep valley at the western edge of the [[Misty Mountains]], reached by a narrow, difficult path. The house itself is described as "a perfect house, whether you like food or sleep or story-telling or singing, or just sitting and thinking best, or a pleasant mixture of them all." It is a place of beauty, learning, music, and rest, with great libraries and halls of lore.
+
+Elrond's household includes great Elven lords and scholars, and the house serves as a repository of history and knowledge of [[Middle-earth]].
+
+== Role in The Lord of the Rings ==
+
+=== Frodo's Healing ===
+After [[Frodo Baggins]] is stabbed by the [[Nazgûl|Witch-king]]'s Morgul-blade on [[Weathertop]], he is carried to Rivendell, where [[Elrond]] uses his healing arts to save Frodo's life. Without Elrond's intervention, the shard would have reached Frodo's heart and turned him into a wraith.
+
+=== The Council of Elrond ===
+The [[Council of Elrond]] is held in Rivendell to decide the fate of the [[One Ring]]. Representatives of Elves, [[Dwarves]], Men, and Hobbits attend — including [[Legolas]], [[Gimli]], [[Boromir]], [[Aragorn]], [[Gandalf]], [[Frodo Baggins|Frodo]], and [[Bilbo Baggins|Bilbo]]. The Council determines that the Ring cannot be used or hidden and must be destroyed in [[Mount Doom]]. Frodo volunteers to carry it, and the [[Fellowship of the Ring]] is formed.
+
+=== Reforging of Narsil ===
+In Rivendell, the shards of [[Narsil]] — the sword of Elendil, broken when he fell fighting [[Sauron]] — are reforged into '''Andúril''', the Flame of the West, and given to [[Aragorn]] as he takes up his heritage as the heir of Isildur.
+
+== After the War ==
+With the destruction of the [[One Ring]], the power of [[Elrond]]'s ring [[Vilya]] faded, and the enchantment protecting Rivendell waned. Elrond departed [[Middle-earth]] for the [[Undying Lands]] at the end of the [[Third Age]], along with [[Gandalf]], [[Galadriel]], [[Bilbo Baggins|Bilbo]], and [[Frodo Baggins|Frodo]]. Rivendell's fate in the [[Fourth Age]] is not recorded, though Elladan and Elrohir, Elrond's sons, are said to have remained for a time.
+
+== See Also ==
+* [[Elrond]]
+* [[Council of Elrond]]
+* [[Fellowship of the Ring]]
+* [[Aragorn]]
+* [[Middle-earth]]
 
 [[Category:Places]]

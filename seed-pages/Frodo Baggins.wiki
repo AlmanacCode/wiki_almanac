@@ -1,7 +1,44 @@
-'''Frodo Baggins''' is a hobbit of [[The Shire]] and the ring-bearer of the [[One Ring]].
+{{Infobox character
+| name = Frodo Baggins
+| race = [[Hobbits|Hobbit]]
+| culture = Shire-hobbits
+| birth = 22 September, T.A. 2968
+| titles = Ring-bearer
+| weapon = [[Sting]]
+| realm = [[The Shire]]
+| affiliation = [[Fellowship of the Ring]]
+}}
+'''Frodo Baggins''' is a [[Hobbits|hobbit]] of [[The Shire]] and the ring-bearer of the [[One Ring]]. He is the central protagonist of the [[Lord of the Rings]], undertaking the perilous quest to destroy the Ring in the fires of [[Mount Doom]].
 
-== Journey ==
-He leaves home to carry the ring toward [[Mordor]] with the support of the Fellowship.
+== Early life ==
+Frodo was born on 22 September, T.A. 2968, the son of Drogo Baggins and Primula Brandybuck. After both his parents drowned in a boating accident on the Brandywine River when he was twelve, Frodo was taken in by his cousin [[Bilbo Baggins]] at [[Bag End]] in [[Hobbiton]].
+
+Bilbo became a father figure to Frodo, sharing his love of Elvish lore, maps, and adventure. When Bilbo departed the Shire after his 111th birthday party, he left Bag End and all his possessions to Frodo — including a mysterious gold ring.
+
+== The Quest of the Ring ==
+Seventeen years after Bilbo's departure, [[Gandalf]] returned to reveal that Frodo's ring was the [[One Ring]], forged by [[Sauron]] in the fires of [[Mount Doom]]. With [[Sauron]]'s servants, the [[Nazgûl]], already searching for it, Frodo had to leave the Shire.
+
+=== The Fellowship ===
+Frodo set out with his loyal friends [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]], and [[Peregrin Took|Pippin]]. After a harrowing journey through the [[Old Forest]], encounters with [[Tom Bombadil]], and a near-fatal stabbing by the [[Witch-king of Angmar|Witch-king]] at [[Weathertop]], Frodo reached [[Rivendell]].
+
+At the [[Council of Elrond]], Frodo volunteered to carry the Ring to Mordor. The [[Fellowship of the Ring]] was formed to protect him, consisting of nine companions: Frodo, Sam, Merry, Pippin, [[Gandalf]], [[Aragorn]], [[Legolas]], [[Gimli]], and [[Boromir]].
+
+=== The breaking of the Fellowship ===
+The Fellowship traveled south through [[Moria]] (where Gandalf fell fighting a [[Balrog]]) and into [[Lothlórien]], where the Lady [[Galadriel]] gifted Frodo the Phial of Galadriel. At [[Amon Hen]], [[Boromir]] attempted to take the Ring, and Frodo decided to continue the quest alone — though Sam refused to be left behind.
+
+=== Into Mordor ===
+Frodo and Sam navigated the [[Emyn Muil]] and the [[Dead Marshes]], eventually encountering [[Gollum]], whom Frodo showed mercy and took as a guide. Despite Sam's mistrust, Frodo felt a strange kinship with Gollum, understanding the Ring's corrupting power.
+
+Gollum led them through [[Ithilien]] to the secret stair at [[Cirith Ungol]], where he betrayed them to the giant spider [[Shelob]]. Frodo was stung and paralysed, but Sam rescued him from the [[Tower of Cirith Ungol]].
+
+=== Mount Doom ===
+Crossing the plains of [[Mordor]] in disguise, the two hobbits reached [[Mount Doom]]. At the [[Crack of Doom]], the Ring's power overcame Frodo and he claimed it for himself. But [[Gollum]] attacked, biting the Ring from Frodo's finger and falling into the fire, destroying the Ring and [[Sauron]] forever.
+
+== After the War ==
+Frodo returned to the Shire and helped restore it during the [[Scouring of the Shire]]. However, his wounds — from the Morgul-blade, Shelob's sting, and the Ring's long burden — never fully healed. On 29 September, T.A. 3021, Frodo sailed from the [[Grey Havens]] to the [[Undying Lands]] with [[Gandalf]], [[Bilbo Baggins|Bilbo]], and several Elves.
+
+== Character ==
+Frodo is distinguished among hobbits by his unusual curiosity, his knowledge of Elvish languages, and his deep moral courage. Though physically small and unassuming, he bore one of the greatest burdens in the history of Middle-earth. His capacity for mercy — particularly toward Gollum — ultimately proved essential to the success of the quest.
 
 [[Category:Characters]]
 [[Category:Hobbits]]

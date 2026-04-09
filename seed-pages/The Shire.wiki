@@ -1,3 +1,46 @@
-'''The Shire''' is the homeland of many hobbits, including [[Frodo Baggins]].
+'''The Shire''' is the homeland of the [[Hobbits]] in [[Middle-earth]], the peaceful agrarian region where ''[[The Lord of the Rings]]'' by [[J. R. R. Tolkien]] begins and ends. It represents the idyllic English countryside that the hobbits fight to protect throughout the story.
+
+== Geography ==
+The Shire lies in the northwest of [[Middle-earth]], in the region of Eriador. It is divided into four quarters known as '''Farthings''':
+
+* '''Westfarthing''' — home to [[Hobbiton]] and [[Bag End]], where [[Bilbo Baggins]] and [[Frodo Baggins]] live.
+* '''Eastfarthing''' — the most agricultural region.
+* '''Southfarthing''' — known for its pipe-weed plantations.
+* '''Northfarthing''' — the least populated, hilly and wild.
+
+Notable locations include:
+* '''[[Bag End]]''' — the luxurious hobbit-hole built by Bungo Baggins on the Hill in [[Hobbiton]], inherited by [[Bilbo Baggins|Bilbo]] and then [[Frodo Baggins|Frodo]].
+* '''Bywater''' — a village near Hobbiton with the Green Dragon inn.
+* '''Brandy Hall''' — the ancestral home of the Brandybuck family in Buckland, across the Brandywine River.
+* '''Michel Delving''' — the chief town and seat of the Mayor.
+* '''The Brandywine Bridge''' — the main crossing into the Shire from the east.
+
+== Culture ==
+Hobbits are fond of simple comforts: good food (six meals a day when possible), pipe-weed, gardening, genealogies, and parties. They live in hobbit-holes — underground dwellings with round doors — or in above-ground houses in the later period. Hobbits are suspicious of adventures and outsiders, preferring a quiet, predictable life.
+
+The Shire has a rich tradition of birthday parties, at which the host gives presents to the guests (rather than the reverse). [[Bilbo Baggins]]'s farewell party at the start of ''[[The Lord of the Rings]]'' is a memorable example.
+
+== Government ==
+The Shire has a minimal government. The '''Mayor of Michel Delving''' serves as the chief official, mainly presiding at banquets. The '''Thain''' (head of the Took family) is the nominal military leader. The '''Master of Buckland''' governs the Buckland region east of the Brandywine. In practice, hobbits govern themselves through custom and social convention rather than laws.
+
+A small police force called the '''Shirriffs''' maintains order, though there is little to maintain.
+
+== Protection by the Rangers ==
+Unknown to most hobbits, the [[Dúnedain|Rangers of the North]] — descendants of the kings of Arnor, led by [[Aragorn]]'s line — patrol the borders of the Shire and protect it from external threats. [[Gandalf]] and [[Aragorn]] both take a special interest in the Shire's safety. The hobbits' peaceful ignorance of the wider dangers of [[Middle-earth]] is itself a product of this secret guardianship.
+
+== The Scouring of the Shire ==
+Upon returning from the [[War of the Ring]], [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]], and [[Peregrin Took|Pippin]] discover that [[Saruman]] (under the alias "Sharkey") has taken control of the Shire, cutting down trees, building ugly buildings, and imposing petty rules. The four hobbits rally the Shire-folk and drive out Saruman's ruffians in the Battle of Bywater. Saruman is killed by his own servant [[Wormtongue]].
+
+The Scouring demonstrates that the hobbits' journey has transformed them — they are now leaders and warriors — and that evil can reach even the most sheltered places.
+
+== Tolkien's Inspiration ==
+Tolkien acknowledged that the Shire was based on the rural English West Midlands of his childhood, particularly the village of Sarehole (now part of Birmingham) where he lived from ages four to eight. The pastoral landscape, the suspicion of machinery, and the love of simple pleasures all reflect Tolkien's own values and nostalgia.
+
+== See Also ==
+* [[Frodo Baggins]]
+* [[Bilbo Baggins]]
+* [[Samwise Gamgee]]
+* [[Hobbiton]]
+* [[Middle-earth]]
 
 [[Category:Places]]

@@ -1,3 +1,44 @@
-'''Mordor''' is the dark land ruled by [[Sauron]].
+{{Infobox place
+| name = Mordor
+| type = Dark realm
+| location = Southeast [[Middle-earth]]
+| ruler = [[Sauron]]
+| inhabitants = Orcs, Trolls, [[Nazgûl]], Easterlings
+| events = Forging of the [[One Ring]], [[War of the Ring]], [[Battle of the Pelennor Fields]]
+}}
+'''Mordor''' (Black Speech: "Black Land") is the realm of the Dark Lord [[Sauron]] in [[Middle-earth]], the primary antagonist's stronghold throughout ''[[The Lord of the Rings]]'' by [[J. R. R. Tolkien]]. It lies in the southeast of Middle-earth and is the destination of [[Frodo Baggins]]'s quest to destroy the [[One Ring]].
+
+== Geography ==
+Mordor is a roughly rectangular land enclosed on three sides by mountain ranges:
+
+* '''Ephel Dúath''' (Mountains of Shadow) — the western and southern border, separating Mordor from [[Gondor]] and [[Ithilien]].
+* '''Ered Lithui''' (Ash Mountains) — the northern border.
+* '''[[Mount Doom]]''' (Orodruin) — the great volcano in the northwest of Mordor, where [[Sauron]] forged the [[One Ring]] and where it was ultimately destroyed. Its fires are tied to Sauron's power.
+* '''[[Mordor|Barad-dûr]]''' (The Dark Tower) — Sauron's fortress, built on a spur of the Ash Mountains. It was held together partly by the power of the [[One Ring]] and collapsed when the Ring was destroyed.
+* '''The Black Gate''' (Morannon) — the heavily fortified gate at the northwest corner of Mordor, the main entrance and the point where [[Aragorn]] led his diversionary assault.
+* '''[[Cirith Ungol]]''' — a high pass on the western border, guarded by a tower and home to the great spider Shelob. This is the route [[Gollum]] led [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] through.
+* '''Gorgoroth''' — the barren, ash-covered plateau in northwest Mordor between Mount Doom and Barad-dûr, crossed by Frodo and Sam on their final approach.
+* '''Núrn''' — the more fertile southern region of Mordor around the inland Sea of Núrnen, where [[Sauron]]'s slaves farmed to feed his armies. After the War of the Ring, [[Aragorn]] freed its people and granted them the land.
+
+== History ==
+
+=== Second Age ===
+[[Sauron]] chose Mordor as his stronghold around S.A. 1000, attracted by [[Mount Doom]]'s volcanic fires. He built [[Mordor|Barad-dûr]] and forged the [[One Ring]]. After the downfall of [[Númenor]], the [[Last Alliance of Elves and Men]] besieged Barad-dûr for seven years and defeated Sauron, though the Ring was not destroyed.
+
+=== Third Age ===
+For much of the Third Age, Mordor lay empty while [[Sauron]] slowly regathered his strength. [[Gondor]] built fortresses at the passes to watch the land. Around T.A. 2941, Sauron returned openly to Mordor, rebuilt Barad-dûr, and began marshalling vast armies of [[Orcs]], Trolls, Easterlings, and Haradrim.
+
+=== War of the Ring ===
+Mordor served as the staging ground for [[Sauron]]'s final assault on the free peoples. The armies of Mordor attacked [[Minas Tirith]] in the Battle of the [[Pelennor Fields]] and later faced the Host of the West at the [[Black Gate]]. Meanwhile, [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] crossed Gorgoroth and reached [[Mount Doom]], where the [[One Ring]] was destroyed. With its destruction, Barad-dûr collapsed, [[Sauron]] was unmade, and his armies were thrown into disarray.
+
+== Role in the Story ==
+Mordor functions as both a physical destination and a symbol of absolute evil and despair. The journey of Frodo and Sam across its blighted landscape represents the ultimate test of endurance, friendship, and will. The land itself resists their passage — choking ash, no water, and the ever-present Eye of [[Sauron]].
+
+== See Also ==
+* [[Sauron]]
+* [[Mount Doom]]
+* [[One Ring]]
+* [[Minas Tirith]]
+* [[Gondor]]
 
 [[Category:Places]]

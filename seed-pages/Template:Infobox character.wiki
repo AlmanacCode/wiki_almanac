@@ -1,0 +1,31 @@
+<div class="infobox infobox-character">
+<div class="infobox-title">{{{name|{{PAGENAME}}}}}</div>
+<table class="infobox-data">
+{{#if:{{{race|}}}|<tr><th>Race</th><td>{{{race}}}</td></tr>}}
+{{#if:{{{culture|}}}|<tr><th>Culture</th><td>{{{culture}}}</td></tr>}}
+{{#if:{{{birth|}}}|<tr><th>Born</th><td>{{{birth}}}</td></tr>}}
+{{#if:{{{death|}}}|<tr><th>Died</th><td>{{{death}}}</td></tr>}}
+{{#if:{{{titles|}}}|<tr><th>Titles</th><td>{{{titles}}}</td></tr>}}
+{{#if:{{{weapon|}}}|<tr><th>Weapon</th><td>{{{weapon}}}</td></tr>}}
+{{#if:{{{realm|}}}|<tr><th>Realm</th><td>{{{realm}}}</td></tr>}}
+{{#if:{{{spouse|}}}|<tr><th>Spouse</th><td>{{{spouse}}}</td></tr>}}
+{{#if:{{{affiliation|}}}|<tr><th>Affiliation</th><td>{{{affiliation}}}</td></tr>}}
+</table>
+</div><noinclude>
+Character infobox template. Usage:
+<pre>
+{{Infobox character
+| name =
+| race =
+| culture =
+| birth =
+| death =
+| titles =
+| weapon =
+| realm =
+| spouse =
+| affiliation =
+}}
+</pre>
+[[Category:Templates]]
+</noinclude>

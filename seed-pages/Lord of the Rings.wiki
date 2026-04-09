@@ -1,16 +1,53 @@
-'''The Lord of the Rings''' is a high-fantasy epic by [[J. R. R. Tolkien]].
+'''The Lord of the Rings''' is a high-fantasy epic novel by [[J. R. R. Tolkien]], written between 1937 and 1949 and published in three volumes in 1954–1955. Set in the world of [[Middle-earth]], the story follows [[Frodo Baggins]] and the [[Fellowship of the Ring]] on a quest to destroy the [[One Ring]] and defeat the Dark Lord [[Sauron]].
 
-== Overview ==
-The story is set in [[Middle-earth]] and follows [[Frodo Baggins]] as he carries the [[One Ring]] toward [[Mordor]].
+== Background ==
+Tolkien began writing ''The Lord of the Rings'' as a sequel to his earlier novel ''[[The Hobbit]]'' (1937). What started as a simple adventure story grew into a sprawling mythological epic drawing on Tolkien's deep knowledge of Old English, Norse mythology, and Catholic theology. The work took twelve years to complete and was strongly influenced by Tolkien's experiences in World War I and his academic career as a philologist at Oxford.
 
-== Key Characters ==
-* [[Frodo Baggins]]
-* [[Gandalf]]
-* [[Aragorn]]
+== Plot Summary ==
 
-== Key Places ==
-* [[The Shire]]
-* [[Rivendell]]
-* [[Mordor]]
+=== The Fellowship of the Ring ===
+The story begins in [[The Shire]], where [[Gandalf]] reveals to [[Frodo Baggins]] that the magic ring inherited from his uncle [[Bilbo Baggins]] is in fact the [[One Ring]], forged by [[Sauron]] to control all other [[Rings of Power]]. Frodo sets out with his companions [[Samwise Gamgee]], [[Meriadoc Brandybuck]], and [[Peregrin Took]] on a journey to [[Rivendell]], pursued by the [[Nazgûl]]. At [[Rivendell]], the [[Council of Elrond]] determines that the Ring must be destroyed in the fires of [[Mount Doom]] in [[Mordor]], and a company of nine — the [[Fellowship of the Ring]] — is formed to accompany Frodo.
+
+The Fellowship travels south through [[Moria]], where [[Gandalf]] falls battling a [[Balrog]], then to [[Lothlórien]], the golden forest of [[Galadriel]]. The Fellowship breaks at [[Amon Hen]] after [[Boromir]] attempts to take the Ring from Frodo.
+
+=== The Two Towers ===
+The narrative splits. [[Aragorn]], [[Legolas]], and [[Gimli]] pursue the [[Uruk-hai]] who captured [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] into [[Rohan]], where they reunite with Gandalf, now returned as Gandalf the White. They free King [[Théoden]] from [[Saruman]]'s influence and fight the Battle of [[Helm's Deep]].
+
+Meanwhile, Frodo and [[Samwise Gamgee|Sam]] travel toward [[Mordor]] guided by [[Gollum]], who plots to reclaim the Ring. They pass through the Dead Marshes and reach the [[Black Gate]], then are redirected south through [[Ithilien]], where they encounter [[Faramir]]. Gollum leads them to the pass of [[Cirith Ungol]], where Frodo is stung by the great spider Shelob.
+
+=== The Return of the King ===
+[[Aragorn]] leads the forces of the West while [[Gandalf]] defends [[Minas Tirith]] against [[Sauron]]'s armies in the Battle of the [[Pelennor Fields]], where [[Théoden]] falls and [[Éowyn]] slays the [[Nazgûl|Witch-king]]. Aragorn reveals himself as the heir of Isildur and marches on the [[Black Gate]] to draw Sauron's gaze from [[Mordor]].
+
+Frodo and Sam cross the plains of [[Mordor|Gorgoroth]] to [[Mount Doom]]. At the Crack of Doom, Frodo claims the Ring, but [[Gollum]] bites it from his finger and falls into the fire, destroying the Ring and [[Sauron]] forever. Aragorn is crowned King Elessar and marries [[Arwen]]. The hobbits return to [[The Shire]] and deal with the [[Scouring of the Shire|Scouring]]. Frodo eventually sails to the [[Undying Lands]] from the [[Grey Havens]].
+
+== Themes ==
+* '''Good versus evil''' — the struggle against domination and the corrupting nature of power.
+* '''Mercy and pity''' — Gandalf's insistence that Gollum has a part to play proves decisive.
+* '''The corruption of power''' — the [[One Ring]] tempts all who encounter it, regardless of intent.
+* '''Death and immortality''' — mortals and [[Elves]] face different fates.
+* '''Environmentalism''' — the destruction of trees by [[Saruman]] versus the care of the [[Ents]].
+* '''Fellowship and sacrifice''' — the bonds between the nine companions and their willingness to give their lives.
+
+== Publication History ==
+''The Lord of the Rings'' was published in three volumes by Allen & Unwin:
+* ''The Fellowship of the Ring'' — 29 July 1954
+* ''The Two Towers'' — 11 November 1954
+* ''The Return of the King'' — 20 October 1955
+
+The novel has been translated into dozens of languages and has sold over 150 million copies worldwide, making it one of the best-selling books ever written.
+
+== Adaptations ==
+* '''Peter Jackson films''' (2001–2003) — a trilogy of live-action films starring Elijah Wood, Ian McKellen, and Viggo Mortensen. The films won 17 Academy Awards combined, with ''The Return of the King'' winning all 11 categories in which it was nominated.
+* '''Ralph Bakshi animated film''' (1978) — an animated adaptation covering roughly the first half of the story.
+* '''Rankin/Bass''' — produced animated TV specials of ''The Hobbit'' (1977) and ''The Return of the King'' (1980).
+* '''Amazon's The Rings of Power''' (2022–) — a television series set in the [[Second Age]] of [[Middle-earth]].
+* '''BBC Radio dramatisation''' (1981) — a 26-episode radio adaptation widely considered one of the finest audio productions of the work.
+
+== See Also ==
+* [[The Hobbit]]
+* [[The Silmarillion]]
+* [[Fellowship of the Ring]]
+* [[One Ring]]
+* [[Middle-earth]]
 
 [[Category:Works]]

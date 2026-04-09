@@ -1,0 +1,15 @@
+<div class="infobox infobox-artifact">
+<div class="infobox-title">{{{name|{{PAGENAME}}}}}</div>
+<table class="infobox-data">
+{{#if:{{{type|}}}|<tr><th>Type</th><td>{{{type}}}</td></tr>}}
+{{#if:{{{creator|}}}|<tr><th>Creator</th><td>{{{creator}}}</td></tr>}}
+{{#if:{{{created|}}}|<tr><th>Created</th><td>{{{created}}}</td></tr>}}
+{{#if:{{{destroyed|}}}|<tr><th>Destroyed</th><td>{{{destroyed}}}</td></tr>}}
+{{#if:{{{powers|}}}|<tr><th>Powers</th><td>{{{powers}}}</td></tr>}}
+{{#if:{{{bearers|}}}|<tr><th>Notable bearers</th><td>{{{bearers}}}</td></tr>}}
+{{#if:{{{location|}}}|<tr><th>Location</th><td>{{{location}}}</td></tr>}}
+</table>
+</div><noinclude>
+Artifact infobox template.
+[[Category:Templates]]
+</noinclude>

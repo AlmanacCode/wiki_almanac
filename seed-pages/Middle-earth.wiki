@@ -1,3 +1,54 @@
-'''Middle-earth''' is the main setting of [[The Lord of the Rings]].
+'''Middle-earth''' (Quenya: ''Endor'') is the fictional setting of [[J. R. R. Tolkien]]'s legendarium, including ''[[The Hobbit]]'', ''[[The Lord of the Rings]]'', and ''[[The Silmarillion]]''. It refers to the great continent where the stories take place, set within the larger world of Arda.
+
+== Geography ==
+Middle-earth contains a vast range of landscapes, from fertile farmland to volcanic wastelands:
+
+* '''[[The Shire]]''' — the pastoral homeland of the [[Hobbits]], in the northwest of Middle-earth.
+* '''[[Rivendell]]''' (Imladris) — the hidden valley refuge of [[Elrond]] in the foothills of the [[Misty Mountains]].
+* '''[[Lothlórien]]''' — the golden forest of [[Galadriel]] and [[Celeborn]], between the rivers Celebrant and Anduin.
+* '''[[Rohan]]''' — the kingdom of the Horse-lords, a wide grassland south of [[Fangorn]] Forest.
+* '''[[Gondor]]''' — the southern kingdom of Men, with its capital at [[Minas Tirith]].
+* '''[[Mordor]]''' — the dark land of [[Sauron]], enclosed by mountains, containing [[Mount Doom]] and [[Mordor|Barad-dûr]].
+* '''[[Isengard]]''' — the fortress of [[Saruman]] at the southern end of the [[Misty Mountains]].
+* '''[[Mirkwood]]''' — a great forest east of the [[Misty Mountains]], home to Silvan Elves and the realm of the Woodland King ([[Legolas]]'s father, Thranduil).
+
+Major mountain ranges include the [[Misty Mountains]], the [[White Mountains]], and the mountains of [[Mordor]] (Ephel Dúath and Ered Lithui). The great river [[Anduin]] flows from north to south through the heart of the continent.
+
+== The Ages of Middle-earth ==
+
+=== First Age ===
+The age of the [[Silmarils]] and the wars against [[Morgoth]] (Sauron's master). The great Elven kingdoms of Beleriand rose and fell. The age ended with the War of Wrath, in which the Valar overthrew Morgoth and much of Beleriand sank beneath the sea.
+
+=== Second Age ===
+The age of [[Númenor]], the great island kingdom given to the Edain (Men who fought alongside the Elves). [[Sauron]] forged the [[One Ring]] and distributed the [[Rings of Power]]. Númenor was destroyed when its king, corrupted by Sauron, attempted to invade the [[Undying Lands]]. The [[Last Alliance of Elves and Men]] defeated Sauron, and Isildur cut the Ring from his hand.
+
+=== Third Age ===
+The age in which ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]'' are set. The kingdoms of [[Gondor]] and Arnor gradually declined. [[Sauron]] returned to power in [[Mordor]]. The [[One Ring]] was found and ultimately destroyed, ending Sauron's threat forever. The Third Age ended with the departure of the Ring-bearers to the [[Undying Lands]].
+
+=== Fourth Age ===
+The age of the Dominion of Men, beginning with the coronation of King [[Aragorn|Elessar]]. The Elves gradually departed Middle-earth for the [[Undying Lands]], and the age of magic faded.
+
+== Peoples ==
+* '''[[Elves]]''' — the Firstborn of Ilúvatar, immortal and fair.
+* '''[[Men]]''' — the Secondborn, mortal, given the gift of death.
+* '''[[Hobbits]]''' — a small, peaceful folk related to Men.
+* '''[[Dwarves]]''' — a hardy race created by the Vala Aulë.
+* '''[[Ents]]''' — ancient tree-herders who guard the forests.
+* '''[[Orcs]]''' — corrupted creatures bred by [[Morgoth]] and later [[Sauron]].
+* '''[[Istari]]''' — the five Wizards sent by the Valar, including [[Gandalf]] and [[Saruman]].
+
+== Languages ==
+Tolkien, a professional philologist, created numerous languages for the peoples of Middle-earth:
+* '''Quenya''' — the ancient tongue of the High Elves.
+* '''Sindarin''' — the everyday Elven language of Middle-earth.
+* '''Westron''' (the Common Speech) — the lingua franca, represented as English in the text.
+* '''Khuzdul''' — the secret language of the [[Dwarves]].
+* '''Black Speech''' — the language devised by [[Sauron]] for his servants.
+
+== See Also ==
+* [[The Lord of the Rings]]
+* [[The Silmarillion]]
+* [[Mordor]]
+* [[The Shire]]
 
 [[Category:Places]]

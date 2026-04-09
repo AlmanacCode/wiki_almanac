@@ -1,7 +1,49 @@
-'''Gandalf''' is a wizard and one of the major guides of the [[Lord of the Rings]].
+{{Infobox character
+| name = Gandalf
+| race = [[Maia]]
+| culture = [[Istari]]
+| titles = Gandalf the Grey, Gandalf the White, Head of the Istari
+| weapon = [[Glamdring]], Staff
+| affiliation = [[Fellowship of the Ring]], [[Istari]], [[Valar]]
+| realm = Wanderer of [[Middle-earth]]
+}}
+'''Gandalf''' is one of the [[Istari]] (wizards) sent to [[Middle-earth]] by the [[Valar]] to aid the free peoples in their struggle against [[Sauron]]. Known by many names — Mithrandir among the Elves, Tharkûn to the Dwarves, and Gandalf among Men — he is one of the most powerful and influential figures in the [[Lord of the Rings]].
 
-== Role ==
-He helps unite the free peoples of [[Middle-earth]] against [[Sauron]].
+== Origins ==
+Gandalf is a [[Maia]], a divine spirit who existed before the creation of the world. In the [[Undying Lands]], he was known as Olórin and served [[Manwë]] and [[Varda]]. Around the year 1000 of the [[Third Age]], he was sent to Middle-earth in the guise of an old man along with four other Istari, including [[Saruman]] and [[Radagast]].
+
+Unlike Saruman, who was the head of the order, Gandalf was given the [[Elven Rings|Elven Ring]] ''Narya'' (the Ring of Fire) by [[Círdan]] upon his arrival, a sign of the trust placed in him.
+
+== Gandalf the Grey ==
+For over two thousand years, Gandalf wandered Middle-earth, never settling in one place. He became particularly fond of the [[Hobbits]] and [[The Shire]], visiting frequently and becoming known for his spectacular fireworks.
+
+=== Key events ===
+* Encouraged [[Thorin|Thorin Oakenshield]] to reclaim [[Erebor]] from [[Smaug]], setting in motion the events of ''The Hobbit''
+* Arranged for [[Bilbo Baggins]] to join the quest as the company's burglar
+* Discovered that Bilbo's magic ring was in fact the [[One Ring]] through decades of research
+* Formed the [[Fellowship of the Ring]] in [[Rivendell]]
+* Led the Fellowship through the [[Mines of Moria]]
+
+=== Fall in Moria ===
+In the [[Mines of Moria]], the Fellowship was pursued by Orcs and a [[Balrog]] known as Durin's Bane. On the [[Bridge of Khazad-dûm]], Gandalf confronted the Balrog, famously declaring ''"You shall not pass!"'' He destroyed the bridge beneath the Balrog but was dragged into the abyss, falling for what seemed an eternity.
+
+== Gandalf the White ==
+Gandalf and the Balrog fought from the depths of Moria to the peak of [[Zirakzigil]], where Gandalf finally defeated the creature. He died from the battle but was sent back by the Valar with enhanced powers, now clad in white robes. He replaced [[Saruman]] as the head of the Istari order.
+
+As Gandalf the White, he:
+* Freed King [[Théoden]] of [[Rohan]] from Saruman's influence
+* Led the defence at the [[Battle of Helm's Deep]]
+* Rode to the aid of [[Gondor]] during the [[Battle of the Pelennor Fields]]
+* Organised the last desperate stand at the [[Black Gate]] to distract [[Sauron]] while [[Frodo Baggins|Frodo]] carried the Ring to [[Mount Doom]]
+
+== Personality ==
+Gandalf is known for his wisdom, his sharp temper, and his deep compassion. He prefers to guide and inspire rather than use force, believing that even the smallest person can change the course of the future. His fondness for hobbits, pipe-weed, and good food makes him an approachable figure despite his immense power.
+
+He is particularly noted for his belief in mercy and pity, famously telling Frodo that [[Gollum]] still had a part to play in the fate of the Ring.
+
+== Legacy ==
+After the defeat of Sauron and the end of the [[Third Age]], Gandalf departed Middle-earth from the [[Grey Havens]], sailing west to the [[Undying Lands]] along with [[Frodo Baggins|Frodo]], [[Bilbo Baggins|Bilbo]], and several Elves. His mission complete, he returned to his true form as Olórin.
 
 [[Category:Characters]]
 [[Category:Wizards]]
+[[Category:Istari]]

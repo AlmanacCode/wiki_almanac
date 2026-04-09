@@ -1,12 +1,51 @@
-Welcome to '''Wiki Almanac'''.
+Welcome to '''Wiki Almanac''' — a mini encyclopedia of [[J. R. R. Tolkien]]'s [[Middle-earth]], powered by [[MediaWiki]].
 
-This mini wiki is powered directly by [[MediaWiki]].
+== Featured Article ==
+'''[[The Lord of the Rings]]''' is a high-fantasy epic novel by [[J. R. R. Tolkien]], following [[Frodo Baggins]] and the [[Fellowship of the Ring]] on a quest to destroy the [[One Ring]] and defeat [[Sauron]]. Published in 1954–1955, it has sold over 150 million copies and inspired generations of readers, writers, and filmmakers.
 
-== Start Here ==
-* [[Lord of the Rings]]
+== Characters ==
+* [[Frodo Baggins]] — Ring-bearer and hero of the quest
+* [[Samwise Gamgee]] — Frodo's loyal companion
+* [[Gandalf]] — the Grey Wizard, guide to the Fellowship
+* [[Aragorn]] — heir of Isildur, King Elessar
+* [[Legolas]] — Elven prince of Mirkwood
+* [[Gimli]] — Dwarf warrior, son of Glóin
+* [[Boromir]] — Man of Gondor, son of Denethor
+* [[Gollum]] — the wretched former Ring-bearer
+* [[Sauron]] — the Dark Lord
+* [[Saruman]] — the corrupted wizard
+* [[Galadriel]] — Lady of Lothlórien
+* [[Théoden]] — King of Rohan
+* [[Éowyn]] — Shieldmaiden of Rohan
+
+== Places ==
+* [[Middle-earth]] — the world of Tolkien's legendarium
+* [[The Shire]] — homeland of the Hobbits
+* [[Rivendell]] — Elrond's refuge
+* [[Lothlórien]] — the golden forest
+* [[Rohan]] — kingdom of the Horse-lords
+* [[Gondor]] — southern kingdom of Men
+* [[Minas Tirith]] — the White City
+* [[Mordor]] — Sauron's realm
+
+== Artifacts & Groups ==
+* [[One Ring]] — the ruling Ring forged by Sauron
+* [[Fellowship of the Ring]] — the nine companions
+* [[Nazgûl]] — the Ringwraiths
+* [[Balrog]] — ancient demons of fire and shadow
+
+== Categories ==
 * [[:Category:Characters]]
 * [[:Category:Places]]
 * [[:Category:Artifacts]]
+* [[:Category:Works]]
+* [[:Category:Hobbits]]
+* [[:Category:Dwarves]]
+* [[:Category:Wizards]]
+* [[:Category:Istari]]
+* [[:Category:Dúnedain]]
+
+== Explore ==
 * [[Special:AllPages]]
 * [[Special:Categories]]
 

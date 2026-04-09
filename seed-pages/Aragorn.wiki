@@ -1,3 +1,54 @@
-'''Aragorn''' is a ranger, heir to the throne of [[Gondor]], and a central member of the Fellowship.
+{{Infobox character
+| name = Aragorn II Elessar
+| race = Men ([[Dúnedain]])
+| birth = 1 March, T.A. 2931
+| death = 1 March, Fo.A. 120
+| titles = King Elessar, Strider, Thorongil, Chieftain of the Dúnedain
+| weapon = [[Andúril]] (reforged from [[Narsil]])
+| spouse = [[Arwen|Arwen Undómiel]]
+| realm = Reunited Kingdom of [[Gondor]] and [[Arnor]]
+| affiliation = [[Fellowship of the Ring]], [[Dúnedain|Rangers of the North]]
+}}
+'''Aragorn II''', son of Arathorn, is the heir of [[Isildur]] and rightful king of [[Gondor]] and [[Arnor]]. Known as ''Strider'' during his years as a ranger of the North, he is a central figure in the [[Lord of the Rings]] and one of the nine members of the [[Fellowship of the Ring]].
+
+== Early life ==
+Aragorn was born on 1 March, T.A. 2931, in the northern wilderness. His father Arathorn II was killed by Orcs when Aragorn was only two years old. His mother Gilraen brought him to [[Rivendell]], where he was raised by [[Elrond]] under the name ''Estel'' ("Hope") to protect his identity.
+
+At the age of twenty, Elrond revealed Aragorn's true heritage and gave him the shards of [[Narsil]], the sword that had cut the [[One Ring]] from [[Sauron]]'s hand. Shortly after, Aragorn met [[Arwen|Arwen Undómiel]], Elrond's daughter, and they fell in love.
+
+== Years as a Ranger ==
+For decades, Aragorn served the free peoples of the North under various names. He:
+* Served in the armies of [[Rohan]] under King Thengel and in [[Gondor]] under Steward Ecthelion II, calling himself ''Thorongil'' ("Eagle of the Star")
+* Led the [[Dúnedain|Rangers of the North]] in protecting [[The Shire]] and other lands from evil
+* Hunted [[Gollum]] across [[Middle-earth]] with [[Gandalf]]
+* Spent time with the Elves of [[Rivendell]] and [[Lothlórien]]
+
+== The War of the Ring ==
+
+=== From Bree to Rivendell ===
+Aragorn first appeared to the hobbits as the mysterious Strider at the Prancing Pony inn in [[Bree]]. He guided [[Frodo Baggins|Frodo]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]], and [[Peregrin Took|Pippin]] through the wilderness toward Rivendell, defending them against the [[Nazgûl]] at [[Weathertop]].
+
+=== The Fellowship ===
+At the [[Council of Elrond]], Aragorn revealed himself and committed to the quest. The sword Narsil was reforged as ''[[Andúril]]'' ("Flame of the West"). He traveled with the [[Fellowship of the Ring|Fellowship]] through [[Moria]], [[Lothlórien]], and down the [[Anduin|River Anduin]].
+
+After [[Boromir]]'s death defending Merry and Pippin, Aragorn led [[Legolas]] and [[Gimli]] in pursuit of the [[Uruk-hai]] across Rohan.
+
+=== Rohan and Helm's Deep ===
+Reunited with the resurrected [[Gandalf|Gandalf the White]], Aragorn helped free King [[Théoden]] from [[Saruman]]'s control. He fought in the [[Battle of Helm's Deep]], helping defend the fortress against Saruman's army of ten thousand Uruk-hai.
+
+=== The Paths of the Dead ===
+Aragorn took the [[Paths of the Dead]], summoning the oath-breaking [[Army of the Dead]] who had betrayed [[Isildur]] long ago. He offered them a chance to fulfil their oath by fighting against Sauron's forces. With their aid, he captured the Corsair fleet at [[Pelargir]] and sailed up the Anduin to [[Minas Tirith]].
+
+=== The Battle of the Pelennor Fields ===
+Aragorn arrived at the [[Battle of the Pelennor Fields]] with reinforcements, turning the tide of the battle. Afterward, he used the healing herb ''athelas'' to treat the wounded, fulfilling the prophecy that ''"the hands of the king are the hands of a healer."''
+
+=== The Black Gate ===
+Aragorn led the remaining forces of Gondor and Rohan to the [[Black Gate]] of [[Mordor]] as a diversion, allowing [[Frodo Baggins|Frodo]] and [[Samwise Gamgee|Sam]] to reach [[Mount Doom]].
+
+== King of the Reunited Kingdom ==
+After Sauron's defeat, Aragorn was crowned King Elessar of the Reunited Kingdom of Gondor and Arnor. He married [[Arwen]], who chose a mortal life to be with him. His reign lasted 122 years and was marked by peace, prosperity, and the restoration of the kingdom.
+
+Aragorn died on 1 March, Fo.A. 120, at the age of 210, voluntarily surrendering his life as the kings of Númenor once did.
 
 [[Category:Characters]]
+[[Category:Dúnedain]]

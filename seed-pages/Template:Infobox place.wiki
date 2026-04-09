@@ -1,0 +1,29 @@
+<div class="infobox infobox-place">
+<div class="infobox-title">{{{name|{{PAGENAME}}}}}</div>
+<table class="infobox-data">
+{{#if:{{{type|}}}|<tr><th>Type</th><td>{{{type}}}</td></tr>}}
+{{#if:{{{location|}}}|<tr><th>Location</th><td>{{{location}}}</td></tr>}}
+{{#if:{{{ruler|}}}|<tr><th>Ruler</th><td>{{{ruler}}}</td></tr>}}
+{{#if:{{{inhabitants|}}}|<tr><th>Inhabitants</th><td>{{{inhabitants}}}</td></tr>}}
+{{#if:{{{founded|}}}|<tr><th>Founded</th><td>{{{founded}}}</td></tr>}}
+{{#if:{{{destroyed|}}}|<tr><th>Destroyed</th><td>{{{destroyed}}}</td></tr>}}
+{{#if:{{{events|}}}|<tr><th>Major events</th><td>{{{events}}}</td></tr>}}
+{{#if:{{{realm|}}}|<tr><th>Realm</th><td>{{{realm}}}</td></tr>}}
+</table>
+</div><noinclude>
+Place infobox template. Usage:
+<pre>
+{{Infobox place
+| name =
+| type =
+| location =
+| ruler =
+| inhabitants =
+| founded =
+| destroyed =
+| events =
+| realm =
+}}
+</pre>
+[[Category:Templates]]
+</noinclude>

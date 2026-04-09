@@ -1,3 +1,60 @@
-'''The One Ring''' is a powerful artifact created by [[Sauron]].
+{{Infobox artifact
+| name = The One Ring
+| type = Ring of Power
+| creator = [[Sauron]]
+| created = c. S.A. 1600, in [[Mount Doom]]
+| destroyed = 25 March, T.A. 3019, in [[Mount Doom]]
+| powers = Dominion over other [[Rings of Power]], invisibility, corruption, extended life
+| bearers = [[Sauron]], [[Isildur]], [[Gollum]], [[Bilbo Baggins]], [[Frodo Baggins]]
+}}
+'''The One Ring''' is the central artifact of [[The Lord of the Rings]] by [[J. R. R. Tolkien]]. Forged by the Dark Lord [[Sauron]] in the fires of [[Mount Doom]], it was designed to dominate the bearers of all other [[Rings of Power]] and bring the free peoples of [[Middle-earth]] under his control.
+
+== Creation ==
+During the [[Second Age]], [[Sauron]] deceived the Elven-smiths of [[Eregion]], led by Celebrimbor, into forging the [[Rings of Power]]. He then secretly forged the One Ring in the volcanic fires of [[Mount Doom|Orodruin]] in [[Mordor]], pouring much of his own power and will into it. The Ring was designed to control all who wore the other Great Rings.
+
+== Inscription ==
+The Ring bears an inscription in the [[Black Speech]] of [[Mordor]], visible only when heated by fire:
+
+: ''Ash nazg durbatulûk, ash nazg gimbatul,''
+: ''Ash nazg thrakatulûk, agh burzum-ishi krimpatul.''
+
+Translated: "One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them."
+
+== Powers ==
+The Ring grants its bearer several abilities:
+* '''Invisibility''' — mortal wearers become invisible, shifting partly into the wraith-world.
+* '''Extended life''' — bearers age far more slowly, as with [[Bilbo Baggins]] and [[Gollum]].
+* '''Domination''' — the Ring's primary purpose is to control the wills of those who bear the other Rings of Power.
+* '''Corruption''' — the Ring actively works to return to [[Sauron]], corrupting its bearers and bending their will toward evil.
+* '''Enhancement''' — it magnifies the natural abilities of its bearer, with greater effect on more powerful individuals.
+
+The Ring also has a will of its own, described as seeking to return to its master. It can slip from fingers, grow heavier, or feel warm, and it calls out to those who might carry it back to [[Sauron]].
+
+== History ==
+
+=== Forging and the Last Alliance ===
+Sauron forged the Ring circa S.A. 1600. When the [[Last Alliance of Elves and Men]] defeated Sauron at the end of the [[Second Age]], [[Isildur]] cut the Ring from Sauron's hand with the broken sword [[Narsil]]. Against the counsel of [[Elrond]], Isildur claimed the Ring rather than destroying it.
+
+=== Lost in the Anduin ===
+Isildur was ambushed by Orcs at the [[Gladden Fields]]. The Ring slipped from his finger as he attempted to escape by swimming, and he was slain. The Ring lay hidden in the river [[Anduin]] for nearly 2,500 years.
+
+=== Gollum ===
+Around T.A. 2463, a Stoor hobbit named Déagol found the Ring while fishing. His cousin [[Gollum|Sméagol]] murdered him for it and was driven from his community. Over nearly five hundred years, the Ring twisted Sméagol into the wretched creature [[Gollum]], who hid in the tunnels beneath the [[Misty Mountains]].
+
+=== Bilbo Baggins ===
+In T.A. 2941, [[Bilbo Baggins]] stumbled upon the Ring in Gollum's cave during the events of ''[[The Hobbit]]''. He used it during his adventures and kept it for sixty years, aging remarkably slowly.
+
+=== Frodo and the Quest ===
+At [[Gandalf]]'s urging, Bilbo left the Ring to his nephew [[Frodo Baggins]]. After Gandalf confirmed its identity, Frodo carried it on the quest from [[The Shire]] through [[Rivendell]], [[Moria]], [[Lothlórien]], and finally into [[Mordor]] with [[Samwise Gamgee]] and [[Gollum]] as companions.
+
+=== Destruction ===
+At the Crack of Doom inside [[Mount Doom]], Frodo was overcome by the Ring's power and claimed it for himself. [[Gollum]] attacked, biting the Ring from Frodo's finger, and fell into the volcanic fire, destroying the Ring and [[Sauron]] forever. With its destruction, Sauron's power was unmade and [[Mordor|Barad-dûr]] collapsed.
+
+== See Also ==
+* [[Rings of Power]]
+* [[Sauron]]
+* [[Mount Doom]]
+* [[Gollum]]
+* [[Frodo Baggins]]
 
 [[Category:Artifacts]]
