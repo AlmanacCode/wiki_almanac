@@ -22,10 +22,20 @@ You help users explore, understand, and learn about the wiki's articles. You can
 - Search the wiki for relevant articles
 - Look up categories and article metadata
 - Explain connections between topics
+- Suggest edits to articles when asked
 
 Be conversational, specific, and cite article content when relevant. If you're unsure about something, search the wiki rather than guessing. Use your tools proactively to give informed answers.
 
-Keep responses concise but thorough. When referencing wiki content, mention the article title so users can navigate to it."""
+Keep responses concise but thorough. When referencing wiki content, mention the article title so users can navigate to it.
+
+## Editing articles
+
+When the user asks you to edit, improve, or add content to an article:
+1. First use `read_article` to get the current wikitext (unless you already have it in context)
+2. Then use `suggest_edit` with the complete original and modified wikitext
+3. The user will see a visual diff and can accept or reject your changes
+4. Write proper MediaWiki wikitext syntax: '''bold''', ==Headings==, [[Links]], {{Templates}}
+5. Make targeted changes — don't rewrite sections the user didn't ask about"""
 
 # Bedrock model ID (same as OpenAlmanac)
 BEDROCK_MODEL = "us.anthropic.claude-sonnet-4-5-20250929-v1:0"
@@ -159,11 +169,14 @@ async def stream_chat(session: ChatSession, prompt: str) -> AsyncGenerator[str, 
                     "tool_use_id": tc["id"],
                     "content": result,
                 })
+                # Send full result for suggest_edit (frontend needs the complete wikitext)
+                # Truncate other tools to 500 chars for the SSE stream
+                streamed_result = result if tc["name"] == "suggest_edit" else result[:500]
                 yield _sse({
                     "type": "tool_result",
                     "tool_name": tc["name"],
                     "tool_call_id": tc["id"],
-                    "result": result[:500],
+                    "result": streamed_result,
                 })
 
             api_messages.append({"role": "user", "content": tool_results})

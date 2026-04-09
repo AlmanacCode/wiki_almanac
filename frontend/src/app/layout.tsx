@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Libre_Caslon_Text, Outfit, JetBrains_Mono, EB_Garamond, Merriweather } from "next/font/google";
 import "./globals.css";
 import { AppShell } from "@/components/AppShell";
-import { DitherBackground } from "@/components/DitherBackground";
 
 const libreCaslon = Libre_Caslon_Text({
   variable: "--font-libre-caslon",
@@ -50,10 +49,7 @@ export default function RootLayout({
       className={`${libreCaslon.variable} ${outfit.variable} ${jetbrainsMono.variable} ${ebGaramond.variable} ${merriweather.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <DitherBackground />
-        <div className="relative z-10 flex flex-col flex-1">
-          <AppShell>{children}</AppShell>
-        </div>
+        <AppShell>{children}</AppShell>
       </body>
     </html>
   );

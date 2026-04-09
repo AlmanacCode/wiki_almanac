@@ -98,12 +98,17 @@ export function QuillDrawer({
   open,
   onClose,
   articleTitle,
+  onEditSuggestion,
+  inline = false,
 }: {
   open: boolean;
   onClose: () => void;
   articleTitle?: string;
+  onEditSuggestion?: ((suggestion: { title: string; original: string; modified: string; summary: string }) => void) | null;
+  inline?: boolean;
 }) {
   const { messages, isStreaming, error, sendMessage, stop, startNewChat } = useQuillChat();
+  const processedSuggestions = useRef(new Set<string>());
   const [input, setInput] = useState("");
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
@@ -111,6 +116,29 @@ export function QuillDrawer({
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
+
+  // Watch for suggest_edit tool results and forward to editor
+  useEffect(() => {
+    if (!onEditSuggestion) return;
+    for (const msg of messages) {
+      for (const part of msg.parts) {
+        if (part.type === "tool" && (part as ToolPart).toolName === "suggest_edit" && (part as ToolPart).result) {
+          const tp = part as ToolPart;
+          const key = tp.callId;
+          if (processedSuggestions.current.has(key)) continue;
+          try {
+            const data = JSON.parse(tp.result!);
+            if (data.type === "suggest_edit" && data.modified) {
+              processedSuggestions.current.add(key);
+              onEditSuggestion(data);
+            }
+          } catch {
+            // Not valid JSON, skip
+          }
+        }
+      }
+    }
+  }, [messages, onEditSuggestion]);
 
   const handleSend = () => {
     const text = input.trim();
@@ -136,9 +164,13 @@ export function QuillDrawer({
 
   return (
     <div
-      className={`fixed top-0 right-0 h-full w-[400px] max-w-full bg-surface border-l border-border z-50 flex flex-col transition-transform duration-300 ease-in-out ${
-        open ? "translate-x-0" : "translate-x-full"
-      }`}
+      className={
+        inline
+          ? "flex flex-col h-full w-full"
+          : `fixed top-0 right-0 h-full w-[400px] max-w-full bg-surface border-l border-border z-50 flex flex-col transition-transform duration-300 ease-in-out ${
+              open ? "translate-x-0" : "translate-x-full"
+            }`
+      }
     >
       {/* Header */}
       <div className="flex items-center justify-between px-4 py-3 border-b border-border">

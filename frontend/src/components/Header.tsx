@@ -10,7 +10,7 @@ export function Header({
   onToggleQuill,
   quillOpen,
 }: {
-  onToggleQuill: () => void;
+  onToggleQuill?: () => void;
   quillOpen: boolean;
 }) {
   const [categories, setCategories] = useState<Category[]>([]);
@@ -81,7 +81,7 @@ export function Header({
             <Search className="w-4 h-4" />
             <span className="hidden sm:inline">Search</span>
           </Link>
-          <button
+          {onToggleQuill && <button
             onClick={onToggleQuill}
             className={`flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg transition-colors ${
               quillOpen
@@ -91,7 +91,7 @@ export function Header({
           >
             <Feather className="w-4 h-4" />
             <span className="hidden sm:inline">Quill</span>
-          </button>
+          </button>}
         </nav>
       </div>
 

@@ -1,8 +1,13 @@
-"""Read-only tools that Claude can call during chat.
+"""Tools that Claude can call during chat.
 
 Each tool is a plain async function. The TOOL_DEFINITIONS list
 provides the Anthropic tool-use schema sent with API requests.
 """
+
+import json
+import os
+
+import anthropic
 
 from app.wiki_client import wiki_client
 
@@ -64,6 +69,32 @@ TOOL_DEFINITIONS = [
             "required": ["category"],
         },
     },
+    {
+        "name": "suggest_edit",
+        "description": "Suggest modifications to a wiki article's wikitext. Use this when the user asks you to edit, improve, add content to, or modify an article. You MUST provide the complete modified wikitext — not a diff or partial change. The user will see a diff view comparing the original and your suggestion, and can accept or reject it.",
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "description": "The article title being edited",
+                },
+                "original_wikitext": {
+                    "type": "string",
+                    "description": "The current/original wikitext of the article",
+                },
+                "modified_wikitext": {
+                    "type": "string",
+                    "description": "The complete modified wikitext with your suggested changes applied",
+                },
+                "summary": {
+                    "type": "string",
+                    "description": "A short description of what was changed, e.g. 'Added section about Gandalf's fireworks'",
+                },
+            },
+            "required": ["title", "original_wikitext", "modified_wikitext", "summary"],
+        },
+    },
 ]
 
 
@@ -103,6 +134,17 @@ async def execute_tool(name: str, args: dict) -> str:
             if not members:
                 return f"No articles in category '{args['category']}'."
             return "\n".join(f"- {m['title']}" for m in members)
+
+        elif name == "suggest_edit":
+            # Claude provides the modified wikitext directly.
+            # We return it as a structured JSON so the frontend can parse it.
+            return json.dumps({
+                "type": "suggest_edit",
+                "title": args["title"],
+                "original": args["original_wikitext"],
+                "modified": args["modified_wikitext"],
+                "summary": args.get("summary", ""),
+            })
 
         else:
             return f"Unknown tool: {name}"

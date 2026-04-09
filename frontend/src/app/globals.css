@@ -201,6 +201,10 @@ body {
 }
 
 /* Wiki content styles */
+.wiki-content .mw-editsection {
+  display: none;
+}
+
 .wiki-content h2 {
   font-family: var(--font-heading), serif;
   font-size: 1.5rem;
