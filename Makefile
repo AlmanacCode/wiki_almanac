@@ -65,12 +65,13 @@ start: ## Start everything (Docker + backend + frontend)
 	@echo "✓ All services running:"
 	@echo "  MediaWiki:  http://localhost:8080"
 	@echo "  Backend:    http://localhost:8000  (docs: http://localhost:8000/docs)"
-	@echo "  Frontend:   http://localhost:5173"
+	@echo "  Frontend:   http://localhost:3000"
 
 stop: ## Stop backend + frontend (keeps Docker running)
 	@echo "▶ Stopping backend & frontend..."
 	@-pkill -f "uvicorn app.main:app" 2>/dev/null || true
-	@-pkill -f "vite" 2>/dev/null || true
+	@-pkill -f "next dev" 2>/dev/null || true
+	@-pkill -f "next-server" 2>/dev/null || true
 	@echo "✓ Stopped"
 
 stop-all: ## Stop everything including Docker
@@ -89,8 +90,7 @@ status: ## Show status of all services
 	@curl -s "http://localhost:8000/health" 2>/dev/null && echo "" || echo "  not running"
 	@echo ""
 	@echo "── Frontend ──"
-	@curl -s -o /dev/null -w "  http://localhost:%{port_used} (%{http_code})\n" "http://localhost:5173" 2>/dev/null || \
-		curl -s -o /dev/null -w "  http://localhost:%{port_used} (%{http_code})\n" "http://localhost:5174" 2>/dev/null || \
+	@curl -s -o /dev/null -w "  http://localhost:%{port_used} (%{http_code})\n" "http://localhost:3000" 2>/dev/null || \
 		echo "  not running"
 
 # ── Individual services ──

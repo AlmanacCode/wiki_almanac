@@ -1,0 +1,312 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #fcfbfa;
+  --color-surface: #ffffff;
+  --color-surface-raised: #f5f4f1;
+  --color-border: #e6e4df;
+  --color-border-subtle: #f0efeb;
+  --color-foreground: #1c1a19;
+  --color-foreground-muted: #5c5855;
+  --color-foreground-faint: #8a8580;
+  --color-accent: #b35922;
+  --color-accent-hover: #cc6d33;
+  --color-accent-faint: rgba(179, 89, 34, 0.08);
+  --color-accent-glow: rgba(179, 89, 34, 0.15);
+  --color-success: #437a50;
+  --color-danger: #bb4444;
+  --font-serif: var(--font-libre-caslon);
+  --font-heading: var(--font-merriweather);
+  --font-sans: var(--font-outfit);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+
+::selection {
+  background-color: var(--color-accent-glow);
+  color: var(--color-foreground);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-foreground-faint);
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes quill-scribble {
+  0%, 100% { transform: rotate(0deg) translateX(0); }
+  25% { transform: rotate(4deg) translateX(2px); }
+  50% { transform: rotate(-2deg) translateX(-1px); }
+  75% { transform: rotate(3deg) translateX(1px); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes bubbleFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes userSlideIn {
+  from {
+    opacity: 0;
+    transform: translateX(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.5s ease-out both;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out both;
+}
+
+.animate-bubble-fade-in {
+  animation: bubbleFadeIn 0.3s ease-out both;
+}
+
+.animate-user-slide-in {
+  animation: userSlideIn 0.3s ease-out both;
+}
+
+.stagger-1 { animation-delay: 0.05s; }
+.stagger-2 { animation-delay: 0.1s; }
+.stagger-3 { animation-delay: 0.15s; }
+.stagger-4 { animation-delay: 0.2s; }
+.stagger-5 { animation-delay: 0.25s; }
+.stagger-6 { animation-delay: 0.3s; }
+
+/* Glow grid */
+.glow-grid {
+  position: relative;
+}
+
+.glow-grid__ambient {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: radial-gradient(
+    300px circle at var(--glow-x, 50%) var(--glow-y, 50%),
+    var(--color-accent-glow),
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.glow-grid:hover .glow-grid__ambient {
+  opacity: 1;
+}
+
+[data-glow-card] {
+  position: relative;
+  overflow: hidden;
+}
+
+[data-glow-card]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  background: radial-gradient(
+    250px circle at var(--card-glow-x, 50%) var(--card-glow-y, 50%),
+    var(--color-accent-faint),
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+[data-glow-card]:hover::before {
+  opacity: 1;
+}
+
+/* Skeleton loading */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--color-surface-raised) 25%,
+    var(--color-border-subtle) 50%,
+    var(--color-surface-raised) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
+}
+
+/* Wiki content styles */
+.wiki-content h2 {
+  font-family: var(--font-heading), serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--color-foreground);
+  border-bottom: 1px solid var(--color-border-subtle);
+  padding-bottom: 0.5rem;
+}
+
+.wiki-content h3 {
+  font-family: var(--font-heading), serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-foreground);
+}
+
+.wiki-content p {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+  color: var(--color-foreground-muted);
+}
+
+.wiki-content a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-decoration-color: var(--color-accent-faint);
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.2s;
+}
+
+.wiki-content a:hover {
+  text-decoration-color: var(--color-accent);
+}
+
+.wiki-content blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: var(--color-foreground-muted);
+  font-style: italic;
+}
+
+.wiki-content ul,
+.wiki-content ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.wiki-content ul {
+  list-style-type: disc;
+}
+
+.wiki-content ol {
+  list-style-type: decimal;
+}
+
+.wiki-content li {
+  margin-bottom: 0.25rem;
+  line-height: 1.75;
+  color: var(--color-foreground-muted);
+}
+
+.wiki-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.wiki-content th,
+.wiki-content td {
+  border: 1px solid var(--color-border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+
+.wiki-content th {
+  background: var(--color-surface-raised);
+  font-weight: 600;
+}
+
+.wiki-content .infobox {
+  float: right;
+  width: 280px;
+  margin: 0 0 1rem 1.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--color-surface-raised);
+  padding: 1rem;
+  font-size: 0.875rem;
+}
+
+.wiki-content .infobox th {
+  background: transparent;
+  color: var(--color-foreground-faint);
+  font-weight: 500;
+  border: none;
+  padding: 0.25rem 0.5rem;
+  width: 35%;
+}
+
+.wiki-content .infobox td {
+  border: none;
+  padding: 0.25rem 0.5rem;
+}
