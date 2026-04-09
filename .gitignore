@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+*.egg
+venv/
+.venv/
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Chrome extension build output
+extension/dist/
+extension/tsconfig.tsbuildinfo
+
+# Environment & secrets
+.env
+.env.local
+.env.production
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Claude worktrees
+.worktrees/
+.claude/worktrees/
+
+# Misc
+data/
+.ctx/
+skills-lock.json

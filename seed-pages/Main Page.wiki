@@ -1,0 +1,14 @@
+Welcome to '''Wiki Almanac'''.
+
+This mini wiki is powered directly by [[MediaWiki]].
+
+== Start Here ==
+* [[Lord of the Rings]]
+* [[:Category:Characters]]
+* [[:Category:Places]]
+* [[:Category:Artifacts]]
+* [[Special:AllPages]]
+* [[Special:Categories]]
+
+== About ==
+This starter setup is meant to prove a topic wiki can come to life quickly using real MediaWiki pages, categories, talk pages, and special pages out of the box.
