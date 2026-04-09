@@ -110,3 +110,36 @@ export async function searchPages(
 export async function getSiteStats(): Promise<SiteStats> {
   return fetchJSON<SiteStats>(`/site/stats`);
 }
+
+// ── Editor ──
+
+export interface PageSource {
+  id: number;
+  key: string;
+  title: string;
+  source: string;
+  content_model: string;
+  latest_revision_id: number;
+  latest_timestamp: string;
+}
+
+export interface EditResponse {
+  result: string;
+  pageid: number;
+  title: string;
+  oldrevid: number;
+  newrevid: number;
+}
+
+export async function getPageSource(title: string): Promise<PageSource> {
+  return fetchJSON<PageSource>(`/pages/${encodeURIComponent(title)}/source`);
+}
+
+export async function editPage(title: string, content: string, summary = ""): Promise<EditResponse> {
+  return postJSON<EditResponse>(`/pages/${encodeURIComponent(title)}/edit`, { title, content, summary });
+}
+
+export async function previewWikitext(content: string): Promise<string> {
+  const data = await postJSON<{ html: string }>(`/pages/preview`, { title: "", content });
+  return data.html;
+}

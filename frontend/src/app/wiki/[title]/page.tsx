@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SquarePen } from "lucide-react";
 import { getParsedPage, getRelatedPages } from "@/lib/api";
 import { ArticleContent } from "./ArticleContent";
 
@@ -63,11 +64,20 @@ export default async function WikiPage({
             </div>
           )}
 
-          {/* Title */}
-          <h1
-            className="font-serif text-3xl sm:text-4xl font-bold text-foreground mb-6"
-            dangerouslySetInnerHTML={{ __html: page.displaytitle || decoded }}
-          />
+          {/* Title + Edit */}
+          <div className="flex items-center gap-3 mb-6">
+            <h1
+              className="font-serif text-3xl sm:text-4xl font-bold text-foreground"
+              dangerouslySetInnerHTML={{ __html: page.displaytitle || decoded }}
+            />
+            <Link
+              href={`/wiki/${encodeURIComponent(decoded)}/edit`}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm text-accent border border-accent/30 bg-accent-faint hover:bg-accent/[0.12] rounded-lg transition-colors shrink-0"
+            >
+              <SquarePen size={14} />
+              Edit
+            </Link>
+          </div>
 
           {/* Table of Contents */}
           {page.sections.length > 0 && (

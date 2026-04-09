@@ -140,6 +140,20 @@ async def get_related_pages(title: str, limit: int = Query(6, le=20)):
     return related
 
 
+@router.post("/preview", summary="Preview wikitext as rendered HTML (without saving)")
+async def preview_wikitext(req: EditRequest):
+    result = await wiki_client.action_post(
+        action="parse",
+        text=req.content,
+        contentmodel="wikitext",
+        prop="text",
+        disablelimitreport="1",
+    )
+    parse = result.get("parse", {})
+    html = parse.get("text", "")
+    return {"html": html}
+
+
 @router.post("/{title}/edit", response_model=EditResponse, summary="Edit or create a page")
 async def edit_page(title: str, req: EditRequest):
     token = await wiki_client.get_csrf_token()
